@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+    "$basetexture" "models/zmw/suscrito"
+    "$nocull" 1
+}
